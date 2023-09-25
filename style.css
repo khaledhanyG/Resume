@@ -1,0 +1,24 @@
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.red {
+    color:red;
+    font-weight: 600;
+}
+.lh {
+    line-height: 1.5;
+}
+a:hover {
+    text-decoration: underline;
+    color: goldenrod;
+}
+a {
+    text-decoration: none;
+}
+body {
+    background-color: azure;
+}
